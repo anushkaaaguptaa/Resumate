@@ -112,9 +112,9 @@ Make sure Python 3 is installed.
 
 ### 🌐 Frontend Setup
 
-1. Navigate to `fronten/` folder:
+1. Navigate to `frontend/` folder:
    ```bash
-   cd fronten
+   cd frontend
    ```
 
 2. Open `index.html` in a browser OR use Live Server extension in VSCode.
