@@ -138,10 +138,6 @@ Make sure Python 3 is installed.
 
 ## 🖼️ Screenshots
 
-
-### 📄 Resume Generation Page
-![Generate Resume](assets/gen_resume.png)
-
 ### 🔍 Internship Finder
 ![Get Internships](assets/get_internships.png)
 
