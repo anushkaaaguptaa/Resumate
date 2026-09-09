@@ -151,7 +151,7 @@ Make sure Python 3 is installed.
 | Domain            | Technologies                                                 |
 |------------------|--------------------------------------------------------------|
 | **AI/ML**         | Python                                                       |
-| **NLP**           | SpaCy, NLTK, Hugging Face Transformers                       |
+| **NLP**           | SpaCy, NLTK                       |
 | **Web Development** | React.js, Tailwind CSS, Node.js & Express, RESTful APIs  |
 | **Web Scraping**  | BeautifulSoup, Scrapy, Requests, Selenium                    |
 | **Database**      | MongoDB (with Mongoose ORM)                                  |
