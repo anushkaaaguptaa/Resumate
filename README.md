@@ -14,9 +14,7 @@
 
 ## 🚀 Features
 
-- ✨ Gemini-powered **Resume Chatbot**
 - 📄 **PDF Resume Upload** with skill extraction
-- 🧠 **Real-time ATS Scoring & Suggestions**
 - 🔎 **Internship Matcher** scraping Internshala
 - 💸 **Stipend-based Sorting** of top 10 internships
 - 🖥️ Clean and minimal **Frontend Dashboard**
