@@ -145,12 +145,6 @@ Make sure Python 3 is installed.
 ### 🔍 Internship Finder
 ![Get Internships](assets/get_internships.png)
 
-### 📊 ATS Score Result
-![ATS Score](assets/ats_score.png)
-
-### 🖥️ Dashboard Overview
-![Dashboard](assets/dashboard.png)
-
 ### 📈 Track Internships Applied
 ![Track](assets/track.png)
 
