@@ -138,8 +138,6 @@ Make sure Python 3 is installed.
 
 ## 🖼️ Screenshots
 
-### 🤖 Chatbot Interaction
-![Chatbot](assets/chatbot.png)
 
 ### 📄 Resume Generation Page
 ![Generate Resume](assets/gen_resume.png)
@@ -173,14 +171,6 @@ Make sure Python 3 is installed.
 ## 🔐 API Keys & Quota Management
 
 > *Coming Soon*: Quota management and Gemini API key rotation
-
----
-
-## ✅ Sample Output
-
-- `Details_csv.csv`: Tabular data of top 10 internships
-- `internship_links.txt`: Direct links to apply
-- ATS and suggestions displayed on dashboard
 
 ---
 
